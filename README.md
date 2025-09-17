@@ -2,3 +2,4 @@
 
 
 FreeBSD_Updater.sh - Script to update the system.
+KDE_Setup.sh - Simple script to setup KDE desktop environment.
