@@ -15,4 +15,8 @@ freebsd-update fetch install
 pkg update
 pkg upgrade -y
 
+# Clean
+pkg autoremove
+pkg clean
+
 echo "System update and upgrade complete."
